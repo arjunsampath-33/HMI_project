@@ -13,5 +13,5 @@ This **HMI design** is developed to provide an intuitive and user-friendly inter
 
 ## 🛠️ Tools & Software Used  
 - **HMI Development Software**:  ATSEL(HMI software for the selec PLC's)  
-- **PLC Integration**: Integrated with the selec plc(digix 111)  
+- **PLC Integration**: Integrated with the Selec PLC(digix 111)  
 
