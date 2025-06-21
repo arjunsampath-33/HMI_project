@@ -1,17 +1,23 @@
-# HMI_Project  
-This repository contains **HMI interface designs** for a **Milk Tank Washer**.  
+# HMI Screens for Milk Tank Washer
 
-## 📂 Files Included:  
-- **PAGE - 1.png** – Home Page  
-- **PAGE - 2.png** – Work Process  
-- **PAGE - 3.png** – Settings Page (Accessible by all)  
-- **PAGE - 4.png** – Settings Page (Only accessible by Supervisor)  
-- **PAGE - 5.png** – Settings Page (Only accessible by Engineer)  
+This repository showcases HMI screens developed for monitoring and controlling the automated cleaning process of a milk storage tank.
 
-## 🔧 Purpose  
-This **HMI design** is developed to provide an intuitive and user-friendly interface for **Milk Tank Washer operations**. The design ensures efficient process visualization and automation.  
+## 📸 Screenshots
 
-## 🛠️ Tools & Software Used  
-- **HMI Development Software**:  ATSEL(HMI software for the selec PLC's)  
-- **PLC Integration**: Integrated with the Selec PLC(digix 111)  
+| Page | Description |
+|------|-------------|
+| ![Home page](images/login.png) | Home with logo, date/time, and navigation |
+| ![Work process](images/main_dashboard.png) | Visual overview of the milk tank cleaning process in real-time. |
+| ![settings 1](images/alarm_page.png) |  Basic settings panel available to all users |
+| ![Settings 2](images/settings.png) |  Supervisor-level settings for process adjustments and monitoring |
+| ![Settings 3](images/status.png) |  Engineer-level settings for advanced configuration and diagnostics |
+
+> 📂 All HMI screen images are located in the `/images` folder.
+
+## 💻 Tools Used
+- **HMI Designer: Atsel Software** 
+- **PLC Platform: Selpro Software** (PLC programming software by Selec)
+
+
+
 
